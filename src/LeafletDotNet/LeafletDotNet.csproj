@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <Copyright>Bjarte Djuvik Næss</Copyright>
+    <Authors>Bjarte Djuvik Næss</Authors>
+    <Company>Bjarte Djuvik Næss</Company>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="GeoJSON.Net" Version="1.1.64" />
+  </ItemGroup>
+
+</Project>
