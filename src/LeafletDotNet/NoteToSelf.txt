@@ -1,0 +1,4 @@
+﻿1) Pack using "Rigth click project -> Pack"
+2) Configure nuget API Key nuget setApiKey <your_API_key>
+2) Push package to NuGet using 
+nuget push .\LeafletDotNet.1.0.0.nupkg -Source https://api.nuget.org/v3/index.json

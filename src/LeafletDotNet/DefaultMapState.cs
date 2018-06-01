@@ -13,8 +13,6 @@
                     South = 57.8,
                     North = 71.6
                 };
-
-
                 return new MapState
                 {
 
